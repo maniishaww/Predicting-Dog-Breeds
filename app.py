@@ -10,7 +10,7 @@ import pickle
 
 
 # Loading the pre-trained model
-model = pickle.load(open(r"C:\Users\Manisha\DATA SCIENCE\MACHINE LEARNING Phase 1\Dog breeds\dataset\Yorkshire_Terrier\log.pkl","rb"))
+model = pickle.load(open(r"log.pkl","rb"))
 
 
 # Title of the page
